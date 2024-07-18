@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>체쓰클럽</title>
+
+    <style>
+        a {
+            color: rgb(0, 111, 255);
+            text-decoration: none;
+        }
+        ff {
+            color: rgb(255, 106, 0);
+        }
+        h2{
+            color: #12887A;
+            text-align: center;
+        } 
+        h1{
+            color: #12887A;
+            text-align: center;
+        } 
+        fieldset{
+            color: #686868;
+            background-color: #ffffff;
+            
+        }
+       
+
+        body {
+            background-color: #12887A ;
+        }
+         jj {
+            text-align: center;
+        }
+        h5 {
+            color: #a9a9a9;
+        }
+        
+        @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@200..900&display=swap');
+
+    </style>
+   
+
+</head>
+<body>
+    <div id="container">
+      
+        <fieldset>
+            <br>
+            <br>
+            <h1><strong>워크샵 안내문</h1></strong>
+            <br>
+            <br>
+        
+            <jj>
+            <p>안녕하세요. 연재오락실입니다.</p>
+            <p>제 2회 (현)체쓰클럽, (구)좋밥회원의 워크샵 개최가 마침내 하루 앞으로 다가왔습니다.
+            이에 따라 본 워크샵에 참석하시는 귀빈여러분들께 <ff>워크샵 식순</ff>과 <ff>준비물</ff>을 알립니다.</p>
+            <br>
+            <br></jj>
+            <br>
+            <br>
+            
+           
+            
+            
+            <fieldset>
+                <legend><h2>워크샵 식순</h2></legend>
+                
+                <p>15:00 - 16:00   숙소 체크인 및 준비물 구매</p>
+                <p>16:00 - 17:30   식사 (엽떡&허콤)</p>
+                <p>17:30 - 18:00   정리 및 쉬는 시간</p>
+                <p>18:00 - 19:00   체쓰클럽우정능력시험</p>
+                <p>19:00 - 19:30   케이크 커팅 및 랜덤선물 교환식</p>
+            
+                <p>19:30 - 22:00   추리게임</p>
+                <p>21:00 - 23:00   양모펠트 대회</p>
+                <p>23:00 - 25:00  하이디라오</p>
+                <p>25:00 ~              그르륵칵 및 취침</p>
+                <p></p>
+        
+                
+            </fieldset>
+
+            <br>
+            <br>
+
+            <fieldset>
+                <legend><h2>공통준비물</h2></legend>
+                <jj>
+                <p>최상의 컨디션</p>
+                <p>랜덤선물 (1개)</p>
+                <p>삼색볼펜</p>
+                <p>양모펠트 재료</p>
+                <p>비상약 (소화제, 타이레놀 등)</p>
+            
+                <p>가디건 (에어컨 18도)</p>
+                <p>양치도구</p>
+                <p></p>
+                <p>잼얘</p>
+                <p>핸드폰</p>
+                <p></p>
+            </jj>
+                
+            </fieldset>
+            <br>
+            <br>
+        
+            <br>
+        
+
+
+        
+        <section id="contents">
+            <div>
+            <br>
+            <br>
+        <jj>
+            <h3>숙소 안내</h3>
+            <p>강남대로455 데시앙루브 A동</p>   
+            <p><a href="https://naver.me/GI3stKV1">체쓰클럽 워크샵 장소 지도 바로가기</a></p>
+            <p><h5>본 숙소의 자세한 호수와 도어록 비밀번호는
+            <br>당일에 안내해드리겠습니다.</p> </h5>       
+        </jj>
+        <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <jj>
+                <p>위 식순은 당일의 상황에 따라 <ins>변경</ins> 혹은 <ins>취소</ins> 될 수 있으니 참고만 해주시길 바랍니다.
+                추가적으로 필요한 준비물이 생길 경우 재안내드릴 예정입니다.
+                체쓰클럽(체력쓰레기클럽)의 워크샵이 성공적으로 개최될 수 있도록 안전하게 잘 즐겨주시길 바랍니다.</p>
+                <p>감사합니다.</p>
+                <br>
+                <br></jj>
+                <br>
+                
+                
+        </div>
+    </fieldset>
+</body>
+</html>
